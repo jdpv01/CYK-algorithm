@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CYK_algorithm.Model
 {
-    class CYK
+    public class CYK
     {
+        
     }
 }
