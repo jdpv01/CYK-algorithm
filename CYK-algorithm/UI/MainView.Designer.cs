@@ -1,5 +1,5 @@
 ﻿
-namespace CYK_algorithm
+namespace CYK_algorithm.UI
 {
     partial class MainView
     {
