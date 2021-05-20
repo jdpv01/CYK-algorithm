@@ -20,6 +20,12 @@ namespace CYK_algorithm.Model
             CFG.Add(new Production(Symbol, Rule));
         }
 
+        public void clearProduction() {
+            if(CFG.Count != 0)
+            CFG.Clear();
+        }
+
+        
         public bool CYKAlgorithm(string Word)
         {
             bool output = false;
@@ -94,6 +100,11 @@ namespace CYK_algorithm.Model
                     output = true;
             }
             return output;
+        }
+
+        public List<Production> GetProductions()
+        {
+            return CFG;
         }
     }
 }

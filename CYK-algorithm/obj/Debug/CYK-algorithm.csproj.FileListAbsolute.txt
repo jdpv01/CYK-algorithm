@@ -8,3 +8,13 @@ C:\Users\usuario\source\repos\CYK-algorithm\CYK-algorithm\bin\Debug\CYK-algorith
 C:\Users\usuario\source\repos\CYK-algorithm\CYK-algorithm\bin\Debug\CYK-algorithm.pdb
 C:\Users\usuario\source\repos\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.exe
 C:\Users\usuario\source\repos\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.pdb
+C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\bin\Debug\CYK-algorithm.exe.config
+C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\bin\Debug\CYK-algorithm.exe
+C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\bin\Debug\CYK-algorithm.pdb
+C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.csprojAssemblyReference.cache
+C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK_algorithm.UI.MainView.resources
+C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK_algorithm.Properties.Resources.resources
+C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.csproj.GenerateResource.cache
+C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.csproj.CoreCompileInputs.cache
+C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.exe
+C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.pdb
