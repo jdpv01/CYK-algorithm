@@ -10,11 +10,16 @@ namespace CYK_algorithm.UI
         {
             InitializeComponent();
             CYK Cyk = new CYK();
-            Cyk.AddProduction("S", "AA");
-            Cyk.AddProduction("S", "0");
-            Cyk.AddProduction("A", "SS");
-            Cyk.AddProduction("A", "1");
-            Console.WriteLine(Cyk.CYKAlgorithm("000001"));
+            Cyk.AddProduction("S", "AB");
+            Cyk.AddProduction("A", "CD");
+            Cyk.AddProduction("A", "CF");
+            Cyk.AddProduction("B", "2");
+            Cyk.AddProduction("B", "EB");
+            Cyk.AddProduction("C", "0");
+            Cyk.AddProduction("D", "1");
+            Cyk.AddProduction("E", "2");
+            Cyk.AddProduction("F", "AD");
+            Console.WriteLine(Cyk.CYKAlgorithm("00011122"));
         }
     }
 }
