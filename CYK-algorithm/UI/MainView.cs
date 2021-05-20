@@ -7,9 +7,9 @@ namespace CYK_algorithm.UI
     public partial class MainView : Form
     {
         CYK Cyk;
+
         public MainView()
-        {
-            
+        {   
             InitializeComponent();
             Cyk = new CYK();
             clear();
