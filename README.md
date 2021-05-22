@@ -4,7 +4,7 @@ Algoritmo de análisis sintáctico para comprobar si una palabra dada w pertenec
 <img src="/CYK-algorithm/resources/img1.PNG" width = 600>
 
 # Instrucciones
-Precondiciónes: la gramática debe estar en la forma normal de Chomsky y los símbolos solo pueden contener un carácter.
+Precondiciones: la gramática debe estar en la forma normal de Chomsky y los símbolos solo pueden contener un carácter.
 
 - 1 . Introducir el símbolo en la caja de texto.
 - 2 . Introducir la regla de producción.
