@@ -72,7 +72,7 @@ namespace CYK_algorithm.UI
                 else {
                     siii.Visible = false;
                     fallo.Visible = true;
-                    MessageBox.Show("LA CADENA NO SE PUEDE GENERAR :,C", "RESPUESTA:", MessageBoxButtons.OKCancel);
+                    MessageBox.Show("RESPUESTA.", "LA CADENA NO SE PUEDE GENERAR :,C", MessageBoxButtons.OKCancel);
                 }
             }
         }

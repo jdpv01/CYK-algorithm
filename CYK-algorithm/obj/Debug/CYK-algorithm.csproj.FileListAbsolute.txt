@@ -18,3 +18,13 @@ C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-alg
 C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.csproj.CoreCompileInputs.cache
 C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.exe
 C:\Users\rojop\OneDrive\Escritorio\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.pdb
+C:\Users\usuario\Desktop\Informatica teorica\CYK-algorithm\CYK-algorithm\bin\Debug\CYK-algorithm.exe.config
+C:\Users\usuario\Desktop\Informatica teorica\CYK-algorithm\CYK-algorithm\bin\Debug\CYK-algorithm.exe
+C:\Users\usuario\Desktop\Informatica teorica\CYK-algorithm\CYK-algorithm\bin\Debug\CYK-algorithm.pdb
+C:\Users\usuario\Desktop\Informatica teorica\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Informatica teorica\CYK-algorithm\CYK-algorithm\obj\Debug\CYK_algorithm.UI.MainView.resources
+C:\Users\usuario\Desktop\Informatica teorica\CYK-algorithm\CYK-algorithm\obj\Debug\CYK_algorithm.Properties.Resources.resources
+C:\Users\usuario\Desktop\Informatica teorica\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Informatica teorica\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Informatica teorica\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.exe
+C:\Users\usuario\Desktop\Informatica teorica\CYK-algorithm\CYK-algorithm\obj\Debug\CYK-algorithm.pdb
