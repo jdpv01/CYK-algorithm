@@ -4,26 +4,26 @@ Algoritmo de análisis sintáctico para comprobar si una palabra dada w pertenec
 <img src="/CYK-algorithm/resources/img1.PNG" width = 600>
 
 # Instrucciones
-Precondicion es que la gramatica debe estar en forma normal de Chomsky.
-- 1 . Introducir el simbolo en la caja de texto.
+Precondiciónes: la gramática debe estar en la forma normal de Chomsky.
+- 1 . Introducir el símbolo en la caja de texto.
 - 2 . Introducir la regla de producción.
-- 3 . Darle click en el boton de agregar. 
-<br>Si se necesita agregar mas reglas se repite el proceso de la 1 - 3.
+- 3 . Click en el botón de agregar regla. 
+<br>Para agregar más reglas se repite el mismo proceso.
 
 <img src="/CYK-algorithm/resources/123Intru.PNG" width = 300>
 
-- 4 . Introducir la cadena que desea generar.
-- 5 . Darle click en el boton de generar, para verificar si la cadena se genera por la gramatica dada.
+- 4 . Introducir la cadena que desea verificar.
+- 5 . Click en el botón Verificar, para verificar si la cadena es generada por la gramática dada.
 
 <img src="/CYK-algorithm/resources/cadenaYgenerar.PNG" width = 300>
 
-<br>Después de esto aparecer un mensaje que indica si se genero o no se genero.
+<br>Después de esto debe aparecer un mensaje indicando si la cadena es generable o no por la GIC dada.
 
 <img src="/CYK-algorithm/resources/NosePudo.PNG" width = 300>
 
 <img src="/CYK-algorithm/resources/SisePudo.PNG" width = 300>
 
-- 6 . Darle al boton de limpiar si desea generar otra gramatica.
+- 6 . Click en el botón limpiar reglas si desea generar otra gramática.
 
 <img src="/CYK-algorithm/resources/Limpiar.PNG" width = 300>
 
@@ -33,8 +33,8 @@ Precondicion es que la gramatica debe estar en forma normal de Chomsky.
 
 # Autores
 
-- David Pelaez
-- Josue Rodriguez 
+- David Peláez
+- Josué Rodriguez 
 - Camilo Escobar 
 
 
