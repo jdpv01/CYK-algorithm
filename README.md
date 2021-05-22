@@ -4,12 +4,12 @@ Algoritmo de análisis sintáctico para comprobar si una palabra dada w pertenec
 <img src="/CYK-algorithm/resources/img1.PNG" width = 600>
 
 # Instrucciones
-Precondiciónes: la gramática debe estar en la forma normal de Chomsky
-                los símbolos solo pueden tener un carácter.
+Precondiciónes: la gramática debe estar en la forma normal de Chomsky y los símbolos solo pueden contener un carácter.
+
 - 1 . Introducir el símbolo en la caja de texto.
 - 2 . Introducir la regla de producción.
 - 3 . Click en el botón de agregar regla. 
-<br>Para agregar más reglas se repite el mismo proceso.
+Para agregar más reglas se repite el mismo proceso.
 
 <img src="/CYK-algorithm/resources/123Intru.PNG" width = 300>
 
@@ -18,7 +18,7 @@ Precondiciónes: la gramática debe estar en la forma normal de Chomsky
 
 <img src="/CYK-algorithm/resources/cadenaYgenerar.PNG" width = 300>
 
-<br>Después de esto debe aparecer un mensaje indicando si la cadena es generable o no por la GIC dada.
+Después de esto debe aparecer un mensaje indicando si la cadena es generable o no por la GIC dada.
 
 <img src="/CYK-algorithm/resources/NosePudo.PNG" width = 300>
 
