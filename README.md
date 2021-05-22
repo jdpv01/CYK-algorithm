@@ -13,7 +13,7 @@ Precondiciónes: la gramática debe estar en la forma normal de Chomsky.
 <img src="/CYK-algorithm/resources/123Intru.PNG" width = 300>
 
 - 4 . Introducir la cadena que desea verificar.
-- 5 . Click en el botón Verificar, para verificar si la cadena es generada por la gramática dada.
+- 5 . Click en el botón Generar, para verificar si la cadena es generada por la gramática dada.
 
 <img src="/CYK-algorithm/resources/cadenaYgenerar.PNG" width = 300>
 
