@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CYK_algorithm.Model
 {
-    class Production
+    public class Production
     {
         public string Symbol { get; }
 
