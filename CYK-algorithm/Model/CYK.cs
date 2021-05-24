@@ -23,6 +23,9 @@ namespace CYK_algorithm.Model
             CFG.Add(new Production(Symbol, Rule));
         }
 
+        /*
+         * Clear the list.
+         */
         public void ClearProductions() {
             CFG.Clear();
         }
