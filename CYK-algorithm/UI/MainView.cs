@@ -15,11 +15,19 @@ namespace CYK_algorithm.UI
             Clear();
         }
 
+        /*
+         * Allows to clear the listbox with a single click on the rule.
+         */
         private void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             Clear();
         }
 
+
+        /*
+         * this method is called by listbox click, it allows to put all 
+         * the textboxes clean and eliminates the rules.
+         */
         private void Clear() {
             listBox1.Items.Clear();
             CYK.ClearProductions();
@@ -30,6 +38,10 @@ namespace CYK_algorithm.UI
             siii.Visible = false;
         }
 
+        /*
+         * It allows to add a rule, calling the model method and in case 
+         * the user does not enter the symbol or the rule it sends an alert.
+         */
         private void AddProduction_Click(object sender, EventArgs e)
         {
             if (simbolo.Text != "" && regla.Text != "")
@@ -46,6 +58,9 @@ namespace CYK_algorithm.UI
             }
         }
 
+        /*
+         * Displays the rules created by the user.
+         */
         private void ShowRules() {
             listBox1.Items.Clear();
             for (int i = 0; i<CYK.GetProductions().Count; i++)
@@ -54,6 +69,9 @@ namespace CYK_algorithm.UI
             }
         }
 
+        /*
+         * cleans the entire interface.
+         */
         private void Limp_Click(object sender, EventArgs e)
         {
             Clear();
@@ -61,6 +79,9 @@ namespace CYK_algorithm.UI
             ShowRules();
         }
 
+        /*
+         *Allows to verify that the string is allowed by the rules set by the user. 
+         */
         private void Check_Click(object sender, EventArgs e)
         {
             if (CYK.GetProductions().Count != 0 && cadena.Text != "") {
