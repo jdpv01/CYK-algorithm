@@ -16,14 +16,14 @@ namespace CYK_algorithm.UI
         }
 
         /*
-         * Allows to clear the listbox with a single click on the rule.
+         * Allows to clear the last rule added to the listbox with a single click.
          */
-        private void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
+        private void ListBox1_Click(object sender, EventArgs e)
         {
-            Clear();
+            CYK.GetProductions().Remove(CYK.GetProductions()[CYK.GetProductions().Count - 1]);
+            ShowRules();
         }
-
-
+     
         /*
          * this method is called by listbox click, it allows to put all 
          * the textboxes clean and eliminates the rules.
